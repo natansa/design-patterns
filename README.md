@@ -6,7 +6,6 @@ Projeto em .Net 6 com implementação dos 23 Design Patterns do GOF [EM DESENVOL
 	1.1> Objetivo: evita acoplamento entre classes, segregando funções conforme suas responsabilidades.
 	
 	1.2> Boas práticas:
-		- abstração.
 		- princípio de aberto/fechado.
 		- responsabilidade única.
 		
