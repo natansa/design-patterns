@@ -1,5 +1,8 @@
 # design-patterns
-Projeto em .Net 6 com implementação dos 23 Design Patterns do GOF [EM DESENVOLVIMENTO]
+Projeto em .Net 6 com implementação dos 23 Design Patterns do GOF 
+
+[EM DESENVOLVIMENTO]
+
 ----------------------------------------------------------------------------------------------------------------------------
 1º Design Pattern : Chains Of Responsibility
 
